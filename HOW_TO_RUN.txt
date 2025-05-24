@@ -5,3 +5,6 @@ python3 -m homework --model knn --n_neighbors 10
 
 python3 -m homework --model elasticnet
 python3 -m homework --model elasticnet --alpha 0.4 --l1_ratio 0.6
+
+# interface 
+# mlflow ui --backend-store-uri file:./my_mlruns

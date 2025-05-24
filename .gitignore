@@ -2,6 +2,7 @@
 
 models/
 mlruns/
+my_mlruns/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
